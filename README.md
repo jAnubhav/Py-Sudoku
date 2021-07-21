@@ -1,2 +1,1 @@
-# Py-Sudoku
-Sudoku Game
+# Sudoku
