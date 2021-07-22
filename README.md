@@ -25,4 +25,3 @@ On pressing the check button from the menubar, all numbers on the wrong position
 Once you have completed the sudoku, press finish. If you have done all correct then the game will end displaying the message of success.
 
 ![image](http://storagecan.ml/Static/Py-sudoku4.jpg)
-http://storagecan.ml/Static/Py-sudoku4.jpg
