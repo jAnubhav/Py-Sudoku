@@ -1,7 +1,7 @@
 # Sudoku
 A classy sudoku game made using python tkinter.
 
-Sudoku is a game of numbers. You need to fill every row, column and box with numbers between 1-9.
+Sudoku is a game of numbers. It requires all the boxes in the grid to be filled with the numbers from 1 to 9 satisfying the condition that no number is repeated within a row or column.
 
 ### Initially
 The sudoku made by me looks like this:
